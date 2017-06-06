@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+
+
+
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+
+    <!--green-->
+    <color name="green50">#e8f5e9</color>
+    <color name="green100">#c8e6c9</color>
+    <color name="green200">#a5d6a7</color>
+    <color name="green300">#81c784</color>
+    <color name="green400">#66bb6a</color>
+    <color name="green500">#4caf50</color>
+    <color name="green600">#43a047</color>
+    <color name="green700">#388e3c</color>
+    <color name="green800">#2e7d32</color>
+    <color name="green900">#1b5e20</color>
+    <color name="greenA100">#b9f6ca</color>
+    <color name="greenA200">#69f0ae</color>
+    <color name="greenA400">#00e676</color>
+    <color name="greenA700">#00c853</color>
+
+    <!--light_green-->
+    <color name="light_green50">#f1f8e9</color>
+    <color name="light_green100">#dcedc8</color>
+    <color name="light_green200">#c5e1a5</color>
+    <color name="light_green300">#aed581</color>
+    <color name="light_green400">#9ccc65</color>
+    <color name="light_green500">#8bc34a</color>
+    <color name="light_green600">#7cb342</color>
+    <color name="light_green700">#689f38</color>
+    <color name="light_green800">#558b2f</color>
+    <color name="light_green900">#33691e</color>
+    <color name="light_greenA100">#ccff90</color>
+    <color name="light_greenA200">#b2ff59</color>
+    <color name="light_greenA400">#76ff03</color>
+    <color name="light_greenA700">#64dd17</color>
+
+
+
+</resources>
